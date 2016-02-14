@@ -1,0 +1,107 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       margin: auto;
+       padding: auto;
+       background-color: #FFEAC1;
+    }
+    div{
+      width: auto;
+    }
+ img {width: 800px;
+      border: 3px solid #000;
+      float: left;
+
+ }
+    header {
+        background-color:#183340;
+        padding:5px;
+        font-size: 25px;
+        display: block;
+        text-align: center;
+        box-shadow: 0px 0px 40px 10px #000;
+    }
+    nav {
+        line-height:15px;
+
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    .picInfo {
+    font-size:2px;
+    text-align: left;
+     }
+    section {
+        width: 516px;
+        display: inline-block;
+        margin-top: 50px;
+    }
+    aside {
+      width: 225px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: 23px;
+      margin-right: 120px;
+
+    }
+    aside ul {
+        list-style-type: none;
+
+    }
+    li{
+        padding-bottom: 10px;
+    }
+    footer {
+        width: auto;
+        background-color:#B5A48A;
+        text-align:center;
+        display: block;
+        font-size: 27px;
+    }
+    .footerFont{
+      font-size: 20px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 350px;
+    }
+    h1{
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #FFF6DC;
+    }
+    p{
+      text-align: left;
+      font-family: Arial, Helvetica, sans-serif;
+      width: 800px;
+      margin-left: 15px;
+      margin-bottom: 50px; 
+    }
+    a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}

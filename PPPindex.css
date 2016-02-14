@@ -1,0 +1,71 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+      background-image: url('http://i.imgur.com/9VeitYP.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+  }
+
+
+  header_container {
+background:#eeeeee;
+border:0px hidden;
+height:100px;
+position:fixed;
+width:1000px;
+top:0;
+margin: auto;
+display: block;
+}
+  header {
+line-height:60px;
+margin:0 auto;
+display:block;
+width:940px;
+text-align:center;
+}
+
+    nav {
+        line-height:;
+        display: inline-block;
+        width: 20%;
+        padding: auto;
+        color: #f2f2f2;
+        /*vertical-align: middle;*/
+    }
+
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        float: inherit;
+        width: 516px;
+        display;
+        text-align: left;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: auto;
+        background-color:;
+        text-align:;
+        padding:auto;
+        display: block;
+    }
